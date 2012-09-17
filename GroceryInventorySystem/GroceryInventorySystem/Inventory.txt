@@ -1,0 +1,21 @@
+	 Vendor 	 Department 	 Item # 	 Item Name 	 # on Hand 	 Max # 	 Retail Price 	 Whlsl Price 
+Ln 1
+Ln 2
+Ln 3
+Ln 4
+Ln 5
+Ln 6
+Ln 7
+Ln 8
+Ln 9
+Ln 10
+Ln 11
+Ln 12
+Ln 13
+Ln 14
+Ln 15
+Ln 16
+Ln 17
+Ln 18
+Ln 19
+Ln 20
