@@ -14,10 +14,10 @@ int main(array<System::String ^> ^args)
 Console::WriteLine(L"Testing GitHub / Pivotal integrationn");
 ofstream invFile;				//creating stream object
 invFile.open ("Inventory.txt"); //opening the file
-invFile << "\t Vendor \t Department \t Item # \t Item Name \t # on Hand \t Max # \t Retail Price \t Whlsl Price \n"; //writing to the file
+invFile << "Item # \t Item Name \t Whlsl Price \t # on Hand \t Max # \t Vendor \t Reorder# \t Retail Price \t Department \n"; //writing to the file
 for (int ln = 1; ln <= 20; ln++)
 	invFile << "Ln " << ln << endl;
-	cout << "OK" << endl;
+	cout << "OK" << endl;// testing to assure it runs...
 invFile.close();				//closing the file
 return 0;
 }
